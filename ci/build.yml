@@ -10,3 +10,6 @@ inputs:
 
 run:
   path: resource-tutorial/ci/build.sh
+
+caches:
+  - path: .gradle/
